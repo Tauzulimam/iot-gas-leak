@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854184437138",
+    "project_id": "gas-leak-app-506a3",
+    "storage_bucket": "gas-leak-app-506a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854184437138:android:0de6383c052e074e558d4b",
+        "android_client_info": {
+          "package_name": "com.tempapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd4Zg-WYJGuWt-Kn_gSUVUbyI0yslmcdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
